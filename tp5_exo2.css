@@ -1,0 +1,30 @@
+h1
+{
+	color: darkred;
+}
+
+.div1
+{
+	width: 350px; 
+	background-color: #9D9D9D;
+	color: red;
+	border: none;
+	border-radius: 10px;
+	padding: 10px 20px;
+	text-align: center;
+	margin: 10px;
+	cursor: pointer;
+	transition: color 0.3s ease;
+}
+.div1:hover{
+	color: darkred;
+	background-color: lightgoldenrodyellow;
+}
+.photo 
+{
+		margin: auto;
+	width: 75px;
+	height: 75px;
+	border: solid black;
+	border-radius: 50%;
+}

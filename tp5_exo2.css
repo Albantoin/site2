@@ -19,6 +19,7 @@ h1
 .div1:hover{
 	color: darkred;
 	background-color: lightgoldenrodyellow;
+	width: 700px;
 }
 .photo 
 {

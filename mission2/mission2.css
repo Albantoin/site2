@@ -10,12 +10,12 @@ header {
 
 
 .h1 {
-	border: 2px solid black;
+
 	float: left;
 }
 
 .h2{
-	border:  3px solid black;
+	
 	float: right;
 	border-radius: 50px;
 
@@ -33,7 +33,7 @@ section{
 }
 
 .l {
-	border: 2px solid black;
+	
 	float: left;
 	padding: 50px;
 	height: 85px;
@@ -41,7 +41,7 @@ section{
 	font-size: 12px;
 }
 .r {
-	border: 2px solid black;
+	
 	float: right;
 	padding: 50px;
 	height: 85px;
@@ -64,4 +64,7 @@ p {
 
 body {
 	background-color: #9d9d9d;
+	width: 60%;
+	margin-left: auto;
+    margin-right: auto;
 }

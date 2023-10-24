@@ -25,5 +25,5 @@ function resultat() {
   n10.value = m;
 }
 function reinitiatilser() {
-  var=a document.getElementById("myform").reset();
+  window.location.reload();
 }
